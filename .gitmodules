@@ -1,0 +1,3 @@
+[submodule "lab1-submodule"]
+	path = lab1-submodule
+	url = https://github.com/kesaeva2006-commits/lab1-submodule
